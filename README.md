@@ -1,9 +1,6 @@
 ### Hello 👋, I'm Josep
 
-<!--
-**JosepTurro/JosepTurro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on update AnimeWars.
 - 🌱 I’m currently learning Type Script and Angular. 
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Hobbies Futbol / Manga / Climbing
 - 📫 How to reach me: jturrocasanovas@gmail.com
 
--->
+
