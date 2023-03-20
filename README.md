@@ -48,6 +48,6 @@ Developed with: JavaScript, React, Node, Express, MongoDB, Bootstrap, API REST, 
 ### Scape IronHack
 
 <a href="https://josepturro.github.io/Joc-Proyecto-Turro-Josep/" target="_blank"><img src="https://raw.githubusercontent.com/JosepTurro/JosepTurro/main/pictures/ScapeIronHackPH.png" alt="Scape" /></a><br />
-Is a social media application where you can find all kinds of cocktails from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
+Traditional game of getting to the goal before they catch you.<br />
 Developed with: JavaScript & Canvas(check the repo <a href="https://github.com/JosepTurro/Joc-Proyecto-Turro-Josep">here</a>).
  
