@@ -30,4 +30,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JosepTurro&show_icons=true&locale=en" alt="JosepTurro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JosepTurro&" alt="JosepTurro" /></p>
+
+## My projects
+
+### Cocteleria
+
+<a href="https://colorful-twill-deer.cyclic.app/" target="_blank"><img src="./pictures/cocteleria.png" alt="Cocteleria" /></a><br />
+Is a social media application where you can find all kinds of cocktails from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
+Developed with: JavaScript, Node, Express & MongoDB (check the repo <a href="https://github.com/AndreaAlarcon99/Proyecto-de-BackEnd/tree/main/cocteleria">here</a>).
+
  
