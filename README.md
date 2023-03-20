@@ -41,7 +41,7 @@ Developed with: JavaScript, Node, Express & MongoDB (check the repo <a href="htt
 
 ### AnimeWars
 
-<a href="https://colorful-twill-deer.cyclic.app/" target="_blank"><img src="./pictures/animeWarsPH.png" alt ="AnimeWars" </a><br />
+<a href="https://colorful-twill-deer.cyclic.app/" target="_blank"><img src="https://raw.githubusercontent.com/JosepTurro/JosepTurro/main/pictures/animeWarsPH.png" alt ="AnimeWars" </a><br />
 Is a social media application where you can find all kinds of cocktails from other people and also create your own. Backend application developed in 4 days at Ironhack, together with two more colleagues.<br />
 Developed with: JavaScript, React, Node, Express, MongoDB, Bootstrap, API REST, Postman.(check the repo Back <a href="https://github.com/JordiMartinezDev/AnimeWars-Back">here</a> and check the repo Front <a href="https://github.com/JordiMartinezDev/AnimeWars-Front">here</a>)./>
 
