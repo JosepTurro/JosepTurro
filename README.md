@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jturrocasanovas@gmail.com**
 
-- ⚡ Hobbies **Football / Climbing / Manga**
+- ⚡ Hobbies **Football / Climbing / Manga / Water sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
